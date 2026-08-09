@@ -1,36 +1,227 @@
-<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+# 👋 Hi, I'm Rohit Yadav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityada&label=Profile%20views&color=0e75b6&style=flat" alt="rohityada" /> </p>
+### 🚀 Software Development Engineer | Java | Spring Boot | MERN | AI/LLM
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohityada" alt="rohityadav" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rohitde48362050" target="blank"><img src="https://img.shields.io/twitter/follow/rohitde48362050?logo=twitter&style=for-the-badge" alt="rohitde48362050" /></a> </p>
-
-- 🔭 I’m currently working on **E-Commerce Full Stack Website**
-
-- 🌱 I’m currently learning **Next.js,Springboot**
-
-- 💬 Ask me about **React,JavaScript,MongoDB,Node.js**
-
-- 📫 How to reach me **rohit1851995@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/rohityada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rohityada" height="30" width="40" /></a>
-<a href="https://twitter.com/rohitde48362050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitde48362050" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-yadav-aa8569163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-yadav-aa8569163/" height="30" width="40" /></a>
+  <a href="https://github.com/Rohityada">
+    <img src="https://img.shields.io/badge/GitHub-Rohityada-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohityadav18/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rohit1851995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohit1851995%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityada&show_icons=true&locale=en&layout=compact" alt="rohityada" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohityada&show_icons=true&locale=en" alt="rohityada" /></p>
+I'm a **Software Development Engineer** focused on building scalable,
+reliable and user-focused applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohityada&" alt="rohityada" /></p>
+I work across **backend engineering, full-stack development, distributed
+systems and AI-powered applications**.
+
+- 💼 Software Development Engineer at **ITJOBXS**
+- ☕ Strong focus on **Java & Spring Boot**
+- ⚛️ Full-stack development with **MERN**
+- 🤖 Building applications with **AI, LLMs, RAG & AI Agents**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏗️ Interested in **System Design & Distributed Systems**
+- ☁️ Exploring **Docker, Kubernetes & Cloud**
+- 🔥 Always learning and building
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## ☕ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+## ⚛️ Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+</p>
+
+## ☁️ DevOps / Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+## 📨 Distributed Systems
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 1️⃣ Distributed Lovable Clone
+
+**Java • Spring Boot • Spring AI • Kafka • Kubernetes • PostgreSQL**
+
+A distributed AI-powered application platform.
+
+### Key Features
+
+- 🏗️ Microservice architecture
+- 🔐 Spring Security & JWT authentication
+- 🤖 AI code generation
+- 🧠 Spring AI
+- 🔎 RAG & Tool Calling
+- 📨 Apache Kafka
+- 🔄 SAGA design pattern
+- ☸️ Kubernetes-based code execution
+- 🐳 Docker
+- 🚀 GitHub Actions CI/CD
+- 🌐 API Gateway
+- 👥 Workspace & Account services
+
+🔗 **Repository:**  
+https://github.com/Rohityada/distributed-lovable-clone
+
+---
+
+# 2️⃣ Real-Time Collaborative Whiteboard
+
+**React • JavaScript • Node.js • MongoDB • Socket.IO**
+
+A real-time collaborative whiteboard allowing multiple users to
+work together.
+
+### Features
+
+- 🎨 Collaborative drawing
+- 👥 Multiple users
+- ⚡ Real-time synchronization
+- 🖱️ Real-time cursor tracking
+- 🖼️ Image upload
+- 📱 Responsive UI
+- 🔌 WebSocket communication
+
+🔗 **Repository:**  
+https://github.com/Rohityada/real-time-collaborative-whiteboard
+
+---
+
+# 3️⃣ Enterprise RAG AI Agent
+
+**Python • FastAPI • LLM • FAISS • RAG**
+
+AI-powered question answering system over document data.
+
+### Features
+
+- 📄 PDF document processing
+- 🔎 Vector similarity search
+- 🧠 Retrieval-Augmented Generation
+- 🤖 Context-aware AI Agent
+- 🛠️ Tool calling
+- 🔊 Voice interaction
+- ⚡ FastAPI backend
+
+🔗 **Repository:**  
+https://github.com/Rohityada/enterprise-rag-ai-agent
+
+---
+
+# 4️⃣ MERN E-Commerce Platform
+
+**MongoDB • Express.js • React • Node.js**
+
+Full-stack e-commerce application.
+
+### Features
+
+- 🛒 Product management
+- 📦 Order management
+- 🔐 JWT authentication
+- 👤 User/Admin roles
+- 🔑 Protected routes
+- 📝 CRUD operations
+- 📱 Responsive frontend
+- 🔌 REST APIs
+
+🔗 **Repository:**  
+https://github.com/Rohityada/mern-ecommerce
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+Currently strengthening problem-solving skills:
+
+```text
+Arrays
+Hashing
+Strings
+Prefix Sum
+Suffix Techniques
+Two Pointers
+Sliding Window
+Binary Search
+Stack
+Queue
+Linked List
+Trees
+Binary Trees
+BST
+Heap
+Graphs
+Greedy
+Backtracking
+Dynamic Programming
